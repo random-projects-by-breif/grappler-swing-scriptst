@@ -19,3 +19,5 @@ i execuute botth at same time using ; to seperatte them.
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/grappler-swing-scriptst/refs/heads/main/perfect%20disguise.lua"))()
 ```
+-- how i have it layed out
+![alt text](image.png)
