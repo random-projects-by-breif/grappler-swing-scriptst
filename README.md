@@ -14,3 +14,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-br
 ```
 these are the settings i like to use 
 i execuute botth at same time using ; to seperatte them.
+
+## disguise gives you a cool avatar
+```luau
+loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/grappler-swing-scriptst/refs/heads/main/perfect%20disguise.lua"))()
+```
