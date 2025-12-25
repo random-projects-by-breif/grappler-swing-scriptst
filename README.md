@@ -21,3 +21,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-br
 ```
 -- how i have it layed out
 ![alt text](image.png)
+## if you want to load all refer to
+https://raw.githubusercontent.com/random-projects-by-breif/grappler-swing-scriptst/refs/heads/main/grappler_swing.lua
+or
+you can load it just as a loadstring
+```luau
+loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/grappler-swing-scriptst/refs/heads/main/grappler_swing.lua"))()
+```
