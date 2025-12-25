@@ -9,4 +9,3 @@ oldNamecall = hookmetamethod(game, "__namecall", function(self, ...)
     end
     return oldNamecall(self, ...)
 end)
-print("CharacterController teleport block is now active.")
