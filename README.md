@@ -10,5 +10,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-br
 ```
 ## to enable my favroute setings
 ```luau
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/grappler-swing-scriptst/refs/heads/main/perfect%20settings%20-%20fix.lua"))()
 ```
+these are the settings i like to use 
+i execuute botth at same time using ; to seperatte them.
