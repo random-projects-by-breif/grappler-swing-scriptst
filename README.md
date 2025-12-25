@@ -1,7 +1,7 @@
 # grappler-swing-scriptst
 
 # scripts
-
+###### -- somoe errors are in disguise so it doesnt load properlyy i only use the reset error code right now so i will not be fixing other issues - i am aware
 
 
 ## disable issue were chatting teleports the charicter to check point
