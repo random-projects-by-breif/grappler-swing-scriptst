@@ -8,3 +8,7 @@
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/grappler-swing-scriptst/refs/heads/main/patch-kill%20on%20chat.luau"))()
 ```
+## to enable my favroute setings
+```luau
+loadstring(game:HttpGet(""))()
+```
